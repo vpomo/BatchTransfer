@@ -1,5 +1,8 @@
 var BatchTransfer = artifacts.require("./BatchTransfer.sol");
 //import assertRevert from './helpers/assertRevert';
+//https://ropsten.etherscan.io/address/0x41e60821b454340d6f09ddc98ab27e94a643ec8b
+
+
 //https://ropsten.etherscan.io/address/0xc611d5b26e3c750b5ea973d4c7c7b3ab8f49d8f6#code
 
 //https://ropsten.etherscan.io/address/0x556e0c6f38cceac9241b2ea507f424b8286d4040
